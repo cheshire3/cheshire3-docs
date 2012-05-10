@@ -6,12 +6,12 @@ Cheshire3 Documentation
 Contents
 --------
 
-- Description
-- Authors
-- Latest Version
-- Documentation
-- Errors, ommisions etc.
-- Licensing, Copyright and Legal
+- [Description](#description)
+- [Authors](#authors)
+- [Latest Version](#latest-version)
+- [Documentation](#documentation)
+- [Errors, ommisions etc.](#errors-ommisions-etc)
+- [Copyright and Legal](#copyright-and-legal)
 
 
 Description
