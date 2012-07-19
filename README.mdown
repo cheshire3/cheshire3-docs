@@ -19,7 +19,7 @@ Description
 
 This is the HTML documentation for Cheshire3. This documentation is included 
 in packaged releases and in the main Cheshire3 GitHub repository as a subtree, 
-so you don't need to get it from here if you alreagy got Cheshire3 by one of 
+so you don't need to get it from here if you already got Cheshire3 by one of 
 these methods. The documentation is maintained in its own repository, as it 
 may occasionally be desirable to checkout/clone the docs in isolation from the 
 software (e.g. for publication on our web-site.)
